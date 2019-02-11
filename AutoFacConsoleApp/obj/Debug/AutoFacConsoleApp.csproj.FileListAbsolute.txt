@@ -1,0 +1,10 @@
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\bin\Debug\AutoFacConsoleApp.exe.config
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\bin\Debug\AutoFacConsoleApp.exe
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\bin\Debug\AutoFacConsoleApp.pdb
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\bin\Debug\Autofac.dll
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\bin\Debug\Autofac.pdb
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\bin\Debug\Autofac.xml
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\obj\Debug\AutoFacConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\obj\Debug\AutoFacConsoleApp.csproj.CopyComplete
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\obj\Debug\AutoFacConsoleApp.exe
+C:\Users\CoryWynn\source\repos\AutoFacConsoleApp\AutoFacConsoleApp\obj\Debug\AutoFacConsoleApp.pdb

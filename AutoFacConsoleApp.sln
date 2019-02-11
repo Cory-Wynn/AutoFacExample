@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacConsoleApp", "AutoFacConsoleApp\AutoFacConsoleApp.csproj", "{DDF32317-3125-45D1-8AA4-B84E29C7063D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF32317-3125-45D1-8AA4-B84E29C7063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF32317-3125-45D1-8AA4-B84E29C7063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF32317-3125-45D1-8AA4-B84E29C7063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF32317-3125-45D1-8AA4-B84E29C7063D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDC97D2-A5CE-4C3C-A805-D064CDF575BF}
+	EndGlobalSection
+EndGlobal
